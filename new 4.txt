@@ -1,0 +1,8 @@
+[Expired]
+{"IsTrialAvailable":0,"IsValidLicense":0,"UserType":"shopee.com.my","UserID":"tephraofficial","LicenseType":"Expired","LicensePeriod":"Until 2021 Nov 28 02:32:09","SettingJson":"{\"SkipDays\":7,\"AutoFollow\":true,\"AutoUnfollow\":true,\"DelayLaunch\":500,\"LoadMoreWait\":1500,\"ScrollToAnimateInterval\":50}","LicenseBegin":"2021-11-27T02:32:09","LicenseEnd":"2021-11-28T02:32:09","StatusCode":0,"StatusMessage":null,"SystemError":"","SourceUniqueIDString":null}
+
+[No License/Before Trial]
+{"IsTrialAvailable":1,"IsValidLicense":0,"UserType":"shopee.com.my","UserID":"eh2001","LicenseType":"No License","LicensePeriod":null,"SettingJson":"{\"SkipDays\": 7, \"AutoFollow\": 1, \"DelayLaunch\": 100, \"AutoUnfollow\": 1, \"LoadMoreWait\": 1000, \"ScrollToAnimateInterval\": 50}","LicenseBegin":"0001-01-01T00:00:00","LicenseEnd":"0001-01-01T00:00:00","StatusCode":0,"StatusMessage":null,"SystemError":"","SourceUniqueIDString":null}
+
+[Trial Just Activated]
+{"IsTrialAvailable":0,"IsValidLicense":1,"UserType":"shopee.com.my","UserID":"eh2001","LicenseType":"Trial","LicensePeriod":"Until 2021 Nov 29 23:08:08","SettingJson":"{\"SkipDays\":7,\"AutoFollow\":true,\"AutoUnfollow\":true,\"DelayLaunch\":100,\"LoadMoreWait\":1000,\"ScrollToAnimateInterval\":50}","LicenseBegin":"2021-11-28T23:08:08","LicenseEnd":"2021-11-29T23:08:08","StatusCode":0,"StatusMessage":null,"SystemError":"","SourceUniqueIDString":null}
